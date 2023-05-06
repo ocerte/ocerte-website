@@ -1,0 +1,29 @@
+# python-3.10.11
+beautifulsoup4==4.12.2
+blinker==1.6.2
+docutils==0.19
+feedgenerator==2.1.0
+Jinja2==3.1.2
+Markdown==3.4.3
+markdown-captions==2.1.2
+markdown-checklist==0.4.4
+markdown-it-py==2.2.0
+MarkupSafe==2.1.2
+mdurl==0.1.2
+minchin.pelican.plugins.post-stats==1.1.1
+pelican==4.8.0
+pelican-neighbors==1.2.0
+pelican-related-posts==1.0.0
+pelican-share-post==1.0.0
+pelican-sitemap==1.0.2
+pelican-tag-cloud==1.0.1
+pelican-tipue-search @ git+https://github.com/getpelican/pelican-plugins/@2388c43172becb8ef06bf4a23ecd868e3b99617a#subdirectory=tipue_search
+Pygments==2.15.1
+python-dateutil==2.8.2
+pytz==2023.3
+rich==13.3.5
+six==1.16.0
+smartypants==2.0.1
+soupsieve==2.4.1
+typogrify==2.0.7
+Unidecode==1.3.6
