@@ -2,7 +2,11 @@ AUTHOR = 'Peter D. Kazarinoff'
 SITENAME = 'OCERTE Website'
 SITEURL = ''
 
+# Path Seetings
 PATH = 'content'
+PAGE_PATHS = [
+    'pages'
+]
 
 TIMEZONE = 'America/Los_Angeles'
 
@@ -32,3 +36,10 @@ DEFAULT_PAGINATION = 5
 
 # Theme
 THEME = "./simplify-theme"
+
+# Pages: like the about page
+
+DISPLAY_PAGES_ON_MENU = True
+
+# URLs
+REALTIVE_URLS = True
