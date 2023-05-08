@@ -4,35 +4,35 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2023-05-07T19:13:51-00:00</lastmod>
+<loc>https://ocerte.org/</loc>
+<lastmod>2023-05-07T19:24:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about.html</loc>
+<loc>https://ocerte.org/pages/about.html</loc>
 <lastmod>2023-05-06T10:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/spring-2023-meeting-announcement.html</loc>
+<loc>https://ocerte.org/spring-2023-meeting-announcement.html</loc>
 <lastmod>2023-04-07T09:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/meetings.html</loc>
+<loc>https://ocerte.org/category/meetings.html</loc>
 <lastmod>2023-04-07T09:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/peter-d-kazarinoff.html</loc>
+<loc>https://ocerte.org/author/peter-d-kazarinoff.html</loc>
 <lastmod>2023-04-07T09:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
