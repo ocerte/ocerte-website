@@ -43,3 +43,8 @@ DISPLAY_PAGES_ON_MENU = True
 
 # URLs
 REALTIVE_URLS = True
+
+# Site Map from the sitemap Pelican plugin
+SITEMAP = {
+    'format':'xml'
+}
