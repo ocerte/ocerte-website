@@ -26,19 +26,15 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = ()
 
 DEFAULT_PAGINATION = 5
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
 # Theme
 THEME = "./simplify-theme"
+THEME_TEMPLATES_OVERRIDES = ['theme-overrides']
 
 # Pages: like the about page
-
 DISPLAY_PAGES_ON_MENU = True
 
 # URLs
@@ -47,4 +43,4 @@ REALTIVE_URLS = True
 # Site Map from the sitemap Pelican plugin
 SITEMAP = {
     'format':'xml'
-}
+    }
